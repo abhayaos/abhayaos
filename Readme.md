@@ -1,16 +1,62 @@
-# 🚀 Abhaya Bikram Shahi | Founder & Full-Stack Developer (@abhayaos)
+# 🚀 Abhaya Bikram Shahi (@abhayaos)
+### Founder of Syartup1 | Full-Stack Developer | Tech Entrepreneur
 
-Welcome! I am **Abhaya Bikram Shahi**, a technology entrepreneur and developer based in **Nepal**. I am the founder of **Syartup1** and the creator of several digital ecosystems aimed at transforming education, networking, and local services.
+![Header Image](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Abhaya%20Bikram%20Shahi&fontSize=50&animation=fadeIn)
 
 ---
 
-## 🏗️ The Syartup1 Ecosystem
-I build platforms that bridge the gap between technology and community needs.
+## 👨‍💻 About Me
+I am a visionary developer and entrepreneur from **Nepal**, focused on building digital solutions that empower communities. As the founder of **Syartup1**, I lead the development of platforms ranging from EdTech to professional networking.
 
-* **[YugalMeet.com](https://yugalmeet.com)** – Modern professional networking and connection hub.
-* **[AbhayaBikramShahi.xyz](https://abhayabikramshahi.xyz)** – Official personal brand and portfolio.
-* **[Skoolio](https://skoolio.vercel.app)** – Cloud-based school management and learning system.
-* **[Abhaya Language](https://abhayalanguage.xyz)** – A dedicated hub for digital language learning.
+- 🔭 **Currently Building:** [YugalMeet](https://yugalmeet.com) - Revolutionizing professional connections.
+- 🎓 **Education Tech:** Developing [Skoolio](https://skoolio.vercel.app) and [Abhaya Language](https://abhayalanguage.xyz).
+- 🛡️ **Cybersecurity:** Leading [Hackademy Zone](https://hackademyzone.xyz) for tech education.
+- 🌐 **Portfolio:** [abhayabikramshahi.xyz](https://abhayabikramshahi.xyz)
+
+---
+
+## 🛠️ My Digital Ecosystem
+
+| Project | Domain | Status |
+| :--- | :--- | :--- |
+| **Syartup1** | Startup Incubator | 🚀 Launching |
+| **YugalMeet** | Professional Networking | 🤝 Live |
+| **Skoolio** | School Management (SaaS) | 🏫 Beta |
+| **Abhaya Language** | EdTech / Language Hub | 📚 Active |
+| **Hackademy Zone** | Tech & Security Academy | 🛡️ Active |
+| **Uniworld Nepal** | Educational Consultancy | 🎓 Partner |
+| **YahaHo** | Discovery Platform | 📍 Vercel |
+
+---
+
+## 💻 Tech Stack
+**Languages & Frameworks:**
+`JavaScript (ES6+)` `Next.js` `React.js` `Node.js` `Python` `Tailwind CSS`
+
+**Tools & Deployment:**
+`Git` `Docker` `Vercel` `Firebase` `PostgreSQL`
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abhayaos&show_icons=true&theme=radical&count_private=true" alt="Abhaya's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayaos&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+I'm always open to discussing new projects, startup ideas, or tech collaborations.
+
+* 🌐 **Website:** [abhayabikramshahi.xyz](https://abhayabikramshahi.xyz)
+* 💼 **LinkedIn:** [Abhaya Bikram Shahi](https://linkedin.com/in/abhaya-bikram-shahi)
+* 📧 **Email:** [abhayabikramshahiofficial@gmail.com](mailto:abhayabikramshahiofficial@gmail.com)
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhayaos&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
 * **[Hackademy Zone](https://hackademyzone.xyz)** – Cybersecurity training and technical education platform.
 * **[Uniworld Nepal](https://uniworldnepal.com)** – Professional consultancy for international education.
 * **[YahaHo](https://yahaho.vercel.app)** – Local discovery and service directory for Nepal.
